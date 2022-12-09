@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PCOS Prediction</title>
+</head>
+
+<body>
+
+  <h1>PCOS Prediction</h1>
+  <p>Take this simple quiz to determine whether PCOS or not with an accuracy of 80.73%.
+  </p>
+
+  <!--We are sending data to same route-->
+  <form method="POST" action="/">
+    <h3>Weight Gain?</h3>
+    <input type="radio" name="Weight" id="weighty" value="1">
+    <label for="weight">Yes</label>
+    <input type="radio" name="Weight" id="weightn" value="0">
+    <label for="weightn">No</label>
+
+    <h3>Hair Growth?</h3>
+    <input type="radio" name="hair" id="hairy" value="1">
+    <label for="hairy">Yes</label>
+    <input type="radio" name="hair" id="hairn" value="0">
+    <label for="hairn">No</label>
+
+    <h3>Skin Darkening?</h3>
+    <input type="radio" name="skin" id="skiny" value="1">
+    <label for="skiny">Yes</label>
+    <input type="radio" name="skin" id="skinn" value="0">
+    <label for="skinn">No</label>
+
+    <h3>Hair Loss?</h3>
+    <input type="radio" name="loss" id="lossy" value="1">
+    <label for="lossy">Yes</label>
+    <input type="radio" name="loss" id="lossn" value="0">
+    <label for="lossn">No</label>
+
+
+    <h3>Pimples?</h3>
+    <input type="radio" name="pimples" id="pimplesy" value="1">
+    <label for="pimplesy">Yes</label>
+    <input type="radio" name="pimples" id="pimplesn" value="0">
+    <label for="pimplesn">No</label>
+
+    <h3>Do you have fast food regularly?</h3>
+    <input type="radio" name="food" id="foody" value="1">
+    <label for="foody">Yes</label>
+    <input type="radio" name="food" id="foodn" value="0">
+    <label for="foodn">No</label>
+
+    <h3>Do yo exercise regularly?</h3>
+    <input type="radio" name="exercise" id="exercisey" value="1">
+    <label for="exercisey">Yes</label>
+    <input type="radio" name="exercise" id="exercisen" value="0">
+    <label for="exercisen">No</label>
+    <br>
+    <br>
+    <input type="submit">
+  </form>
+
+  <h1>{{ yourresult }}</h1>
+</body>
+
+</html>
