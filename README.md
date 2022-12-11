@@ -22,7 +22,7 @@ Steps needed to access the application
 >set FLASK_APP=app.py<br>
 >flask run<br>
 >![image](https://user-images.githubusercontent.com/62328534/206889434-79b3674e-2940-4a0e-8f29-9dddfb16ea46.png)<br>
->A visual representation of running the above commands
+>*A visual representation of running the above commands*
 
 
 
