@@ -1,5 +1,29 @@
 # PCOS Prediction Web Application
 
+## Steps to Access 
+Prerequisites:
+* Latest version of python installed on your system.
+* Basic knowledge of opening folders in command prompt
+
+Steps needed to access the application
+1.   Open command prompt and install flask using the following command : *pip install flask*
+![image](https://user-images.githubusercontent.com/62328534/206888833-ee1f6133-0d15-47d8-a25f-eecdd2028377.png)
+
+
+2.Download the file from our repository
+![image](https://user-images.githubusercontent.com/62328534/206888946-4d705480-a368-455c-8d6b-d2f6b5c15fc4.png)
+
+3. After the zip file is downloaded, extract it on desired location on your PC.
+4. Open the extracted folder in command prompt
+![image](https://user-images.githubusercontent.com/62328534/206889238-6c5d2224-1af1-45e1-98dc-5a73f79606ab.png)
+**Note:** The path of the folder may vary from user to user.
+5. Use the following commands step by step in the folder
+>py -m venv env
+>set FLASK_APP=app.py
+>flask run
+>![image](https://user-images.githubusercontent.com/62328534/206889434-79b3674e-2940-4a0e-8f29-9dddfb16ea46.png)
+>A visual representation of running the above commands
+
 
 
 
