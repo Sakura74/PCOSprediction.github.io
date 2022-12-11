@@ -15,7 +15,7 @@ Steps needed to access the application
 
 3. After the zip file is downloaded, extract it on desired location on your PC.
 4. Open the extracted folder in command prompt <br>
-![image](https://user-images.githubusercontent.com/62328534/206889238-6c5d2224-1af1-45e1-98dc-5a73f79606ab.png)
+![image](https://user-images.githubusercontent.com/62328534/206889238-6c5d2224-1af1-45e1-98dc-5a73f79606ab.png)<br>
 **Note:** The path of the folder may vary from user to user.
 5. Use the following commands step by step in the folder
 >py -m venv env <br>
