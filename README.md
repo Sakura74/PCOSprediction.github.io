@@ -24,6 +24,9 @@ Steps needed to access the application
 >flask run<br>
 >![image](https://user-images.githubusercontent.com/62328534/206889434-79b3674e-2940-4a0e-8f29-9dddfb16ea46.png)<br>
 >*A visual representation of running the above commands*
+
+
+
 6.After running the above commands, a deployment server would be created 
 ![image](https://user-images.githubusercontent.com/62328534/206912780-c8ef410d-3665-4dc6-8f44-10b127f919ca.png)
 7.Copy paste this in your browser to run the app 
