@@ -19,7 +19,7 @@ Steps needed to access the application
 **Note:** The path of the folder may vary from user to user.
 5. Use the following commands step by step in the folder
 >py -m venv env <br>
->env\Scripts\activate<br<
+>env\Scripts\activate<br>
 >set FLASK_APP=app.py<br>
 >flask run<br>
 >![image](https://user-images.githubusercontent.com/62328534/206889434-79b3674e-2940-4a0e-8f29-9dddfb16ea46.png)<br>
