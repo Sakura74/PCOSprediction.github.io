@@ -46,3 +46,7 @@ PCOS is a widespread pathology that is affecting many aspects of women's health,
 
 1.   Prediction and analysis of PCOS by analyzing the extent of various factors in contributing to PCOS as well as diverse implications of PCOS that may happen in the long term using different machine learning models.
 2.   Contribute to community as working on this project, not only spreads awareness about menstruation related problems, but also gives an opportunity to have a healthy discussion on the subject with people who do not menstruate, which can further reassure women that they are not alone in fighting this deleterious syndrome and is a fairly common problem which is being talked about.
+
+## Methodology
+![image](https://user-images.githubusercontent.com/62328534/206913326-15e5bc63-a2f7-4362-89d2-984b909a2c0e.png)
+
