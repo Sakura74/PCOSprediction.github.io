@@ -51,7 +51,9 @@ PCOS is a widespread pathology that is affecting many aspects of women's health,
 Predicts whether a woman has PCOS or not by taking a simple quiz about daily lifestyle. The accuracy of results is 80.73%. 
 
 ## Methodology
-The current project is derived from the following project: https://github.com/Sakura74/Prediction-and-Analysis-of-PCOS-using-Machine-Learning which implements various machine learning models to deduce the best way to predict PCOS. Physical features are used for prediction using logistic regression. The methodology used is as follows:
+The current project is derived from the following project: https://github.com/Sakura74/Prediction-and-Analysis-of-PCOS-using-Machine-Learning which implements various machine learning models to deduce the best way to predict PCOS. 
+<br>This project deploys the logistic regression model from the above project for prediction using physical symptoms. This is done in order to make the above project suitable for real world users.
+
 ![image](https://user-images.githubusercontent.com/62328534/206913326-15e5bc63-a2f7-4362-89d2-984b909a2c0e.png)
 
 ## Contributers
